@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADMA</string>
+    <string name="title_activity_register_form">registerFormActivity</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_dob">Date Of Birth</string>
+    <string name="hint_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_link_login">Login</string>
+</resources>
